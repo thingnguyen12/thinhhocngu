@@ -12,5 +12,5 @@ int main() {
     } while (n <= 0);
     cout << "Sum = " << sum(n)<<endl;
     system("pause");
-    return   0;
+    return 0;
 }
