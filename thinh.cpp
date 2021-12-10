@@ -1,9 +1,10 @@
-#include<iostream>
-
-using namespace std;
+#include<stdio.h>
 
 int main() {
-	cout << "Name: Codelearn.";
-	cout << endl;
-	cout << "Date of birth: 2019.";
+	int a, b;
+	scanf("%d%d", &a, &b);
+	int c = a;
+	a = b;
+	b = c;
+	printf("after swapping, a = %d, b = %d", a, b);
 	return 0;
