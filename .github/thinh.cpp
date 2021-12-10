@@ -7,3 +7,4 @@ int main() {
 	cout << endl;
 	cout << "Date of birth: 2019.";
 	return 0;
+}
