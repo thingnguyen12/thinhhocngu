@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
-	cout << "324 + 553 = " << 324 + 553;
+	cout << "Name: Codelearn.";
+	cout << endl;
+	cout << "Date of birth: 2019.";
 	return 0;
-}
